@@ -46,9 +46,9 @@ Final-year **Artificial Intelligence & Machine Learning** student focused on bui
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohhdmufeed/mohhdmufeed/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohhdmufeed&theme=dracula&no-frame=true&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
   <br/>
-  <img src="https://raw.githubusercontent.com/mohhdmufeed/mohhdmufeed/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" width="90%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohhdmufeed&theme=react-dark&hide_border=true&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff" width="90%" alt="activity graph" />
 </div>
 
 <br/>
