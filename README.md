@@ -1,62 +1,36 @@
-<div align="center">
+<h2 data-importer="text" align="left">Hi 👋! My name is Mufeed.. a</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Mohammed%20Mufeed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Final-Year%20Student&descAlignY=58&descSize=18" width="100%"/>
+###
 
-<a href="https://linkedin.com/in/mohammedmufeed06"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" /></a>
-<a href="mailto:mohhdmufeed@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo" /></a>
-<a href="https://github.com/mohhdmufeed"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github logo" /></a>
-<img src="https://komarev.com/ghpvc/?username=mohhdmufeed&style=for-the-badge&color=6a11cb&label=PROFILE+VIEWS" height="28"/>
+<img data-importer="image" align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
 
-<br/><br/>
+###
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+applications;Machine+Learning+%7C+Deep+Learning;Always+learning%2C+always+shipping&font=Fira+Code&center=true&width=520&height=45&color=6a11cb&vCenter=true&size=22"/>
-
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-<br/>
+###
 
-## About Me
-
-Final-year **Artificial Intelligence & Machine Learning** student focused on building practical, production-ready AI systems — not just notebooks. My interests sit at the intersection of **Machine Learning, Deep Learning, Data Science, and Backend Development**.
-
-- 🌱 Currently sharpening **Advanced ML, DSA, and System Design**
-- 🎯 **2026 goals:** land an AI/ML internship · stay consistent with DSA · contribute to open source · ship production-ready AI projects
-- 📫 **mohhdmufeed@gmail.com**
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,aws,fastapi,postgres,mongodb,firebase,androidstudio,js,html,css&theme=dark" />
-  <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="redis" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="45" alt="postman" />
+<div data-importer="socials" align="left">
+  <a href="mohhdmufeed@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mohhdmufeed" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
-<br/>
-
-## Featured Project
-
-**🏋️ Kinetic Precision** — an offline/online fitness and recovery coaching app, built on a Flutter/Django stack forked from wger. Backed by UX research, user personas, mapped user flows, and reference UI designs.
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohhdmufeed&theme=dracula&no-frame=true&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohhdmufeed&theme=react-dark&hide_border=true&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff" width="90%" alt="activity graph" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer"/>
-
-*"Learning. Building. Improving every day."*
-
-</div>
+###
