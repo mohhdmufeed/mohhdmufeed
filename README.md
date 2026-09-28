@@ -54,3 +54,17 @@
 </div>
 
 ###
+
+<div data-importer="techs" align="left">
+</div>
+
+###
+
+<div data-importer="techs" align="left">
+</div>
+
+###
+
+<p data-importer="text" align="left">Hello World!!</p>
+
+###
