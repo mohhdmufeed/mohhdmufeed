@@ -1,3 +1,10 @@
+<!-- ===== HEADER GIF ===== -->
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="320" alt="Coding GIF Animation" />
+</div>
+
+<br/>
+
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
