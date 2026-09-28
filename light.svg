@@ -1,0 +1,242 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Mohammed Mufeed — profile.sh --live">
+<defs>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#0891B2"/>
+<stop offset="50%" stop-color="#7C3AED"/>
+<stop offset="100%" stop-color="#059669"/>
+</linearGradient>
+<linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#F8FAFC"/>
+<stop offset="100%" stop-color="#EEF2F6"/>
+</linearGradient>
+<linearGradient id="cyanPurple" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0891B2"/>
+<stop offset="100%" stop-color="#7C3AED"/>
+</linearGradient>
+<filter id="glow8" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="8"/></filter>
+<filter id="glow3" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+<filter id="txtGlow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="0.9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="winClip"><rect x="2" y="2" width="1176" height="606" rx="18"/></clipPath>
+</defs>
+
+<rect x="2" y="2" width="1176" height="606" rx="18" fill="#FFFFFF"/>
+<g clip-path="url(#winClip)">
+<rect x="2" y="2" width="1176" height="606" fill="url(#panelGrad)"/>
+
+<!-- Grid Background Pattern -->
+<g opacity="0.07" stroke="#0891B2" stroke-width="1">
+<line x1="0" y1="100" x2="1180" y2="100"/>
+<line x1="0" y1="200" x2="1180" y2="200"/>
+<line x1="0" y1="300" x2="1180" y2="300"/>
+<line x1="0" y1="400" x2="1180" y2="400"/>
+<line x1="0" y1="500" x2="1180" y2="500"/>
+<line x1="150" y1="0" x2="150" y2="610"/>
+<line x1="300" y1="0" x2="300" y2="610"/>
+<line x1="450" y1="0" x2="450" y2="610"/>
+<line x1="600" y1="0" x2="600" y2="610"/>
+<line x1="750" y1="0" x2="750" y2="610"/>
+<line x1="900" y1="0" x2="900" y2="610"/>
+<line x1="1050" y1="0" x2="1050" y2="610"/>
+</g>
+
+<!-- Window Header -->
+<rect x="2" y="2" width="1176" height="46" fill="#F1F5F9"/>
+<line x1="2" y1="48" x2="1178" y2="48" stroke="rgba(8,145,178,0.25)" stroke-width="1"/>
+<circle cx="24" cy="24" r="6" fill="#EF4444"/>
+<circle cx="44" cy="24" r="6" fill="#F59E0B"/>
+<circle cx="64" cy="24" r="6" fill="#10B981"/>
+<text x="590.0" y="29.0" text-anchor="middle" font-size="12" fill="#475569">mohhdmufeed@dev: ~ % ./profile.sh --live</text>
+
+<!-- LEFT PANEL: VISUAL.MAP -->
+<text x="38" y="74" font-size="10" letter-spacing="3" fill="#64748B">VISUAL.MAP</text>
+<rect x="36" y="84" width="400" height="492" rx="10" fill="none" stroke="#0891B2" stroke-width="2" opacity="0.45" filter="url(#glow3)"/>
+<rect x="36" y="84" width="400" height="492" rx="10" fill="#FFFFFF" stroke="rgba(8,145,178,0.35)"/>
+
+<!-- Corner brackets -->
+<path d="M 50 84 L 36 84 L 36 98" fill="none" stroke="#0891B2" stroke-width="2" opacity="0.8"/>
+<path d="M 422 84 L 436 84 L 436 98" fill="none" stroke="#0891B2" stroke-width="2" opacity="0.8"/>
+<path d="M 50 576 L 36 576 L 36 562" fill="none" stroke="#0891B2" stroke-width="2" opacity="0.8"/>
+<path d="M 422 576 L 436 576 L 436 562" fill="none" stroke="#0891B2" stroke-width="2" opacity="0.8"/>
+
+<!-- Left Box Content: Tech Radar & Matrix -->
+<g transform="translate(56, 104)">
+  <!-- Radar circles -->
+  <circle cx="180" cy="120" r="100" fill="none" stroke="#0891B2" stroke-width="1" opacity="0.2"/>
+  <circle cx="180" cy="120" r="70" fill="none" stroke="#7C3AED" stroke-width="1" opacity="0.25"/>
+  <circle cx="180" cy="120" r="40" fill="none" stroke="#059669" stroke-width="1" opacity="0.35"/>
+  <circle cx="180" cy="120" r="5" fill="#0891B2"/>
+  <line x1="80" y1="120" x2="280" y2="120" stroke="#0891B2" stroke-width="1" opacity="0.25"/>
+  <line x1="180" y1="20" x2="180" y2="220" stroke="#0891B2" stroke-width="1" opacity="0.25"/>
+  
+  <!-- Sweeper arm -->
+  <line x1="180" y1="120" x2="260" y2="60" stroke="url(#cyanPurple)" stroke-width="2" opacity="0.8">
+    <animateTransform attributeName="transform" type="rotate" from="0 180 120" to="360 180 120" dur="4s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Glowing Blips -->
+  <circle cx="210" cy="90" r="3" fill="#0891B2">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="140" cy="150" r="3" fill="#7C3AED">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="170" cy="65" r="3" fill="#059669">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Status telemetry below radar -->
+  <g transform="translate(0, 240)">
+    <rect x="0" y="0" width="360" height="210" rx="8" fill="#F8FAFC" stroke="rgba(124,58,237,0.25)" stroke-width="1"/>
+    
+    <text x="16" y="26" font-size="11" font-weight="700" letter-spacing="1.5" fill="#0891B2">CORE TELEMETRY</text>
+    <line x1="16" y1="36" x2="344" y2="36" stroke="rgba(148,163,184,0.3)" stroke-width="1"/>
+
+    <text x="16" y="60" font-size="12" fill="#64748B">SYSTEM</text>
+    <text x="344" y="60" text-anchor="end" font-size="12" font-weight="600" fill="#059669">ONLINE [200 OK]</text>
+
+    <text x="16" y="85" font-size="12" fill="#64748B">ROLE</text>
+    <text x="344" y="85" text-anchor="end" font-size="12" font-weight="600" fill="#0F172A">FULL-STACK DEV</text>
+
+    <text x="16" y="110" font-size="12" fill="#64748B">BUILD ENGINE</text>
+    <text x="344" y="110" text-anchor="end" font-size="12" font-weight="600" fill="#7C3AED">TYPESCRIPT / PYTHON</text>
+
+    <text x="16" y="135" font-size="12" fill="#64748B">ARCHITECTURE</text>
+    <text x="344" y="135" text-anchor="end" font-size="12" font-weight="600" fill="#0891B2">CLOUD / WEB / MOBILE</text>
+
+    <text x="16" y="160" font-size="12" fill="#64748B">PASSION</text>
+    <text x="344" y="160" text-anchor="end" font-size="12" font-weight="600" fill="#0F172A">CLEAN CODE &amp; UI/UX</text>
+
+    <text x="16" y="190" font-size="11" fill="#475569">&#9654; STACK LOADED: 100%</text>
+    <rect x="180" y="180" width="164" height="10" rx="5" fill="#E2E8F0"/>
+    <rect x="180" y="180" width="164" height="10" rx="5" fill="url(#cyanPurple)">
+      <animate attributeName="width" values="40;164;164" dur="2s" fill="freeze"/>
+    </rect>
+  </g>
+</g>
+
+<!-- RIGHT PANEL: SYSTEM.INFO -->
+<text x="470" y="74" font-size="10" letter-spacing="3" fill="#64748B">SYSTEM.INFO</text>
+<text x="1140" y="74" text-anchor="end" font-size="11" fill="#EF4444" font-weight="700">
+  <tspan fill="#059669">&#9679;</tspan> ACTIVE<animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+</text>
+
+<rect x="470" y="88" width="260" height="24" rx="5" fill="#DBEAFE"/>
+<text x="480" y="104" font-size="13" font-weight="700" fill="#1E40AF">mohhdmufeed@gmail.com</text>
+
+<!-- Typed / Animated Profile lines -->
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.2s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.3s" begin="0.2s" fill="freeze"/>
+  <text x="470" y="145" font-size="13.5" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+    <tspan fill="#0891B2">Subject </tspan><tspan fill="rgba(100,116,139,0.35)">......................................................</tspan><tspan fill="#0F172A" font-weight="600"> Mohammed Mufeed</tspan>
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.3s" begin="0.4s" fill="freeze"/>
+  <text x="470" y="172" font-size="13.5" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+    <tspan fill="#0891B2">Role </tspan><tspan fill="rgba(100,116,139,0.35)">...............................................</tspan><tspan fill="#0F172A" font-weight="600"> Full-Stack &amp; Software Developer</tspan>
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.6s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.3s" begin="0.6s" fill="freeze"/>
+  <text x="470" y="199" font-size="13.5" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+    <tspan fill="#0891B2">Status </tspan><tspan fill="rgba(100,116,139,0.35)">...................................</tspan><tspan fill="#0F172A" font-weight="600"> Building + Learning + Shipping</tspan>
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.8s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.3s" begin="0.8s" fill="freeze"/>
+  <text x="470" y="226" font-size="13.5" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+    <tspan fill="#0891B2">ToolChain </tspan><tspan fill="rgba(100,116,139,0.35)">..........................</tspan><tspan fill="#0F172A" font-weight="600"> VS Code, Git, Docker, Android Studio</tspan>
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.0s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.3s" begin="1.0s" fill="freeze"/>
+  <text x="470" y="260" font-size="13.5" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+    <tspan fill="#0891B2">Core.Lang </tspan><tspan fill="rgba(100,116,139,0.35)">............................</tspan><tspan fill="#0F172A" font-weight="600"> TypeScript, JavaScript, Python, C#, Dart</tspan>
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.2s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.3s" begin="1.2s" fill="freeze"/>
+  <text x="470" y="287" font-size="13.5" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+    <tspan fill="#0891B2">Core.Frontend </tspan><tspan fill="rgba(100,116,139,0.35)">......................................</tspan><tspan fill="#0F172A" font-weight="600"> React, Flutter, HTML5, CSS3</tspan>
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.3s" begin="1.4s" fill="freeze"/>
+  <text x="470" y="314" font-size="13.5" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+    <tspan fill="#0891B2">Core.Backend </tspan><tspan fill="rgba(100,116,139,0.35)">..........................................</tspan><tspan fill="#0F172A" font-weight="600"> FastAPI, Node.js</tspan>
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.6s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.3s" begin="1.6s" fill="freeze"/>
+  <text x="470" y="341" font-size="13.5" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+    <tspan fill="#0891B2">Core.Database </tspan><tspan fill="rgba(100,116,139,0.35)">..........................</tspan><tspan fill="#0F172A" font-weight="600"> MongoDB, PostgreSQL, MySQL, Redis</tspan>
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.8s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.3s" begin="1.8s" fill="freeze"/>
+  <text x="470" y="368" font-size="13.5" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+    <tspan fill="#0891B2">Core.Cloud </tspan><tspan fill="rgba(100,116,139,0.35)">...................................</tspan><tspan fill="#0F172A" font-weight="600"> AWS, Docker, Firebase, CI/CD</tspan>
+  </text>
+</g>
+
+<!-- Contact Section -->
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.0s" fill="freeze"/>
+  <text x="470" y="405" font-size="13" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+    <tspan fill="#64748B">- Contact </tspan><tspan fill="rgba(100,116,139,0.25)">----------------------------------------------------------------------</tspan>
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.2s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.3s" begin="2.2s" fill="freeze"/>
+  <text x="470" y="432" font-size="13.5" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+    <tspan fill="#0891B2">Grid.Mail </tspan><tspan fill="rgba(100,116,139,0.35)">.....................................</tspan><tspan fill="#0F172A" font-weight="600"> mohhdmufeed@gmail.com</tspan>
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.3s" begin="2.4s" fill="freeze"/>
+  <text x="470" y="459" font-size="13.5" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+    <tspan fill="#0891B2">Grid.LinkedIn </tspan><tspan fill="rgba(100,116,139,0.35)">..........................................</tspan><tspan fill="#0F172A" font-weight="600"> in/mohhdmufeed</tspan>
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.6s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.3s" begin="2.6s" fill="freeze"/>
+  <text x="470" y="486" font-size="13.5" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+    <tspan fill="#0891B2">Grid.GitHub </tspan><tspan fill="rgba(100,116,139,0.35)">....................................................</tspan><tspan fill="#0F172A" font-weight="600"> @mohhdmufeed</tspan>
+  </text>
+</g>
+
+<!-- Animated Terminal Footer -->
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.9s" fill="freeze"/>
+  <text x="470" y="540" font-size="14" fill="#64748B">&#9656; More about me &amp; projects below in README &#8595; <tspan fill="#0891B2">&#9608;<animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+</g>
+
+</g>
+
+<!-- Outer glowing border -->
+<rect x="3" y="3" width="1174" height="604" rx="17" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.45" filter="url(#glow8)"/>
+<rect x="3" y="3" width="1174" height="604" rx="17" fill="none" stroke="url(#accent)" stroke-width="1.6"/>
+</svg>
