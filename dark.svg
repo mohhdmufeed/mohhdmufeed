@@ -95,16 +95,16 @@
     <text x="344" y="60" text-anchor="end" font-size="12" font-weight="600" fill="#10B981">ONLINE [200 OK]</text>
 
     <text x="16" y="85" font-size="12" fill="#94A3B8">ROLE</text>
-    <text x="344" y="85" text-anchor="end" font-size="12" font-weight="600" fill="#F8FAFC">FULL-STACK DEV</text>
+    <text x="344" y="85" text-anchor="end" font-size="12" font-weight="600" fill="#F8FAFC">SOFTWARE / AI / FULL-STACK</text>
 
-    <text x="16" y="110" font-size="12" fill="#94A3B8">BUILD ENGINE</text>
-    <text x="344" y="110" text-anchor="end" font-size="12" font-weight="600" fill="#A78BFA">TYPESCRIPT / PYTHON</text>
+    <text x="16" y="110" font-size="12" fill="#94A3B8">PRIMARY LANGS</text>
+    <text x="344" y="110" text-anchor="end" font-size="12" font-weight="600" fill="#A78BFA">PYTHON / TS / DART</text>
 
-    <text x="16" y="135" font-size="12" fill="#94A3B8">ARCHITECTURE</text>
-    <text x="344" y="135" text-anchor="end" font-size="12" font-weight="600" fill="#22D3EE">CLOUD / WEB / MOBILE</text>
+    <text x="16" y="135" font-size="12" fill="#94A3B8">DOMAINS</text>
+    <text x="344" y="135" text-anchor="end" font-size="12" font-weight="600" fill="#22D3EE">AI, WEB &amp; MOBILE APPS</text>
 
-    <text x="16" y="160" font-size="12" fill="#94A3B8">PASSION</text>
-    <text x="344" y="160" text-anchor="end" font-size="12" font-weight="600" fill="#F8FAFC">CLEAN CODE &amp; UI/UX</text>
+    <text x="16" y="160" font-size="12" fill="#94A3B8">COMMITS TRACKED</text>
+    <text x="344" y="160" text-anchor="end" font-size="12" font-weight="600" fill="#F8FAFC">800+ CONTRIBUTIONS</text>
 
     <text x="16" y="190" font-size="11" fill="#64748B">&#9654; STACK LOADED: 100%</text>
     <rect x="180" y="180" width="164" height="10" rx="5" fill="#1E293B"/>
@@ -136,7 +136,7 @@
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.4s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.3s" begin="0.4s" fill="freeze"/>
   <text x="470" y="172" font-size="13.5" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
-    <tspan fill="#22D3EE">Role </tspan><tspan fill="rgba(148,163,184,0.35)">...............................................</tspan><tspan fill="#F8FAFC" font-weight="600"> Full-Stack &amp; Software Developer</tspan>
+    <tspan fill="#22D3EE">Role </tspan><tspan fill="rgba(148,163,184,0.35)">...............................................</tspan><tspan fill="#F8FAFC" font-weight="600"> Software &amp; Full-Stack Developer</tspan>
   </text>
 </g>
 
@@ -160,7 +160,7 @@
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.0s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.3s" begin="1.0s" fill="freeze"/>
   <text x="470" y="260" font-size="13.5" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
-    <tspan fill="#22D3EE">Core.Lang </tspan><tspan fill="rgba(148,163,184,0.35)">............................</tspan><tspan fill="#F8FAFC" font-weight="600"> TypeScript, JavaScript, Python, C#, Dart</tspan>
+    <tspan fill="#22D3EE">Core.Lang </tspan><tspan fill="rgba(148,163,184,0.35)">............................</tspan><tspan fill="#F8FAFC" font-weight="600"> Python, TypeScript, Dart, JavaScript, C#</tspan>
   </text>
 </g>
 
@@ -168,7 +168,7 @@
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.2s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.3s" begin="1.2s" fill="freeze"/>
   <text x="470" y="287" font-size="13.5" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
-    <tspan fill="#22D3EE">Core.Frontend </tspan><tspan fill="rgba(148,163,184,0.35)">......................................</tspan><tspan fill="#F8FAFC" font-weight="600"> React, Flutter, HTML5, CSS3</tspan>
+    <tspan fill="#22D3EE">Core.Frontend </tspan><tspan fill="rgba(148,163,184,0.35)">......................................</tspan><tspan fill="#F8FAFC" font-weight="600"> Flutter, React, HTML5, CSS3</tspan>
   </text>
 </g>
 
@@ -192,7 +192,7 @@
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.8s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.3s" begin="1.8s" fill="freeze"/>
   <text x="470" y="368" font-size="13.5" textLength="670" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
-    <tspan fill="#22D3EE">Core.Cloud </tspan><tspan fill="rgba(148,163,184,0.35)">...................................</tspan><tspan fill="#F8FAFC" font-weight="600"> AWS, Docker, Firebase, CI/CD</tspan>
+    <tspan fill="#22D3EE">Core.Data_AI </tspan><tspan fill="rgba(148,163,184,0.35)">................................</tspan><tspan fill="#F8FAFC" font-weight="600"> Pandas, NumPy, Jupyter, Scikit</tspan>
   </text>
 </g>
 
